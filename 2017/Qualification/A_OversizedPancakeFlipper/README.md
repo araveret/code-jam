@@ -46,8 +46,8 @@ In Case #2, all of the pancakes are already happy side up, so there is no need t
 
 In Case #3, there is no way to make the second and third pancakes from the left have the same side up, because any flip flips them both. Therefore, there is no way to make all of the pancakes happy side up.
 
-**
-All material from [Google Code Jam](https://code.google.com/codejam/contest/3264486/dashboard) and licensed under the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/)
-**
+
+#### All material from [Google Code Jam](https://code.google.com/codejam/contest/3264486/dashboard) and licensed under the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/)
+
 
 
