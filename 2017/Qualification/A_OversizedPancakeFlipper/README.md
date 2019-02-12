@@ -1,3 +1,5 @@
+#### All material from [Google Code Jam](https://code.google.com/codejam/contest/3264486/dashboard) and licensed under the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/)
+
 ## Problem
 Last year, the Infinite House of Pancakes introduced a new kind of pancake. It has a happy face made of chocolate chips on one side (the "happy side"), and nothing on the other side (the "blank side").
 
@@ -45,9 +47,3 @@ In Case #1, you can get all the pancakes happy side up by first flipping the lef
 In Case #2, all of the pancakes are already happy side up, so there is no need to flip any of them.
 
 In Case #3, there is no way to make the second and third pancakes from the left have the same side up, because any flip flips them both. Therefore, there is no way to make all of the pancakes happy side up.
-
-
-#### All material from [Google Code Jam](https://code.google.com/codejam/contest/3264486/dashboard) and licensed under the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/)
-
-
-
